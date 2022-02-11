@@ -6,7 +6,7 @@
     background-color: $bg;
     padding-top: 28px;
     &__interpage-link{
-        padding-bottom: 5px;
+        margin-bottom: 5px;
     }
     &__title{
         margin: 0;
@@ -46,7 +46,7 @@
                 }
                 &-title {
                     font-weight: 700;
-                    padding-bottom: 16px;
+                    margin-bottom: 16px;
                     cursor: pointer;
                     align-self: flex-start;
                     transition-duration: 0.3s;
@@ -102,7 +102,7 @@
             }
         }
         &__interpage-link {
-            padding-bottom: 10px;
+            margin-bottom: 10px;
         }
     }
 }

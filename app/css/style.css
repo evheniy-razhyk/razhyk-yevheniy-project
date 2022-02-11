@@ -1147,7 +1147,7 @@ a:focus {
 }
 
 .services__interpage-link {
-  padding-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 .services__title {
@@ -1184,7 +1184,7 @@ a:focus {
   font-size: 22px;
   line-height: 27px;
   cursor: pointer;
-  padding-bottom: 15px;
+  margin-bottom: 15px;
   -webkit-transition-duration: 0.3s;
           transition-duration: 0.3s;
   -webkit-transition-property: color;
@@ -1242,7 +1242,7 @@ a:focus {
 }
 
 .team-slider__interpage-link {
-  padding-bottom: 7px;
+  margin-bottom: 7px;
   -ms-flex-item-align: start;
       align-self: flex-start;
 }
@@ -1509,7 +1509,7 @@ a:focus {
 }
 
 .publications__interpage-link {
-  padding-bottom: 5px;
+  margin-bottom: 5px;
 }
 
 .publications__title {
@@ -1557,7 +1557,7 @@ a:focus {
 
 .publications__list-wrapper-item-title {
   font-weight: 700;
-  padding-bottom: 16px;
+  margin-bottom: 16px;
   cursor: pointer;
   -ms-flex-item-align: start;
       align-self: flex-start;
@@ -1624,7 +1624,7 @@ a:focus {
     height: 100%;
   }
   .publications__interpage-link {
-    padding-bottom: 10px;
+    margin-bottom: 10px;
   }
 }
 
@@ -2335,6 +2335,7 @@ a:focus {
       -ms-flex-direction: column;
           flex-direction: column;
   padding-bottom: 30px;
+  margin-bottom: 30px;
   border-bottom: 4px solid #E6E6F0;
 }
 
@@ -2358,7 +2359,6 @@ a:focus {
 .contacts__data-tel {
   font-size: 21px;
   line-height: 30px;
-  padding-top: 30px;
   margin-bottom: 15px;
   -ms-flex-item-align: start;
       align-self: flex-start;

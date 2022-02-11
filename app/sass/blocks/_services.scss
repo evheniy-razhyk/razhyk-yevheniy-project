@@ -1,6 +1,6 @@
 .services {
     &__interpage-link {
-        padding-bottom: 10px;
+        margin-bottom: 10px;
     }
     &__title {
         margin: 0;
@@ -25,7 +25,7 @@
                 font-size: 22px;
                 line-height: 27px;
                 cursor: pointer;
-                padding-bottom: 15px;
+                margin-bottom: 15px;
                 transition-duration: 0.3s;
                 transition-property: color;
             }
